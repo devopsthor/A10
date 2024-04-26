@@ -1,1 +1,2 @@
-One day i will win the world 
+git log
+git log --oneline
